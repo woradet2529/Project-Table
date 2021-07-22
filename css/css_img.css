@@ -1,0 +1,15 @@
+table {
+    width: 600px;
+    margin-top: 20px;
+}
+table, tr,th,td{
+    border: 0px  black;
+    border-collapse: collapse;
+}
+td,tr {
+    padding: 5px;
+}
+img {
+    width: 200px;
+    height: 130px;
+    }
